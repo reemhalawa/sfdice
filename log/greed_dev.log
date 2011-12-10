@@ -1,0 +1,756 @@
+Dec 09 19:20:11 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:20:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:20:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:20:11 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:20:11 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:20:11 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:20:11 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:20:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:20:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:20:11 symfony [info] {sfWebDebugLogger} Configuration 15.51 ms (9)
+Dec 09 19:20:11 symfony [info] {sfWebDebugLogger} Factories 70.59 ms (1)
+Dec 09 19:20:11 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.50 ms (1)
+Dec 09 19:20:11 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 26.01 ms (1)
+Dec 09 19:20:11 symfony [info] {sfWebResponse} Send content (32500 o)
+Dec 09 19:20:12 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:20:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:20:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:20:12 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:20:12 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:20:12 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:20:12 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:20:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:20:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:20:12 symfony [info] {sfWebDebugLogger} Configuration 11.34 ms (9)
+Dec 09 19:20:12 symfony [info] {sfWebDebugLogger} Factories 60.73 ms (1)
+Dec 09 19:20:12 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.51 ms (1)
+Dec 09 19:20:12 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 26.60 ms (1)
+Dec 09 19:20:12 symfony [info] {sfWebResponse} Send content (32503 o)
+Dec 09 19:20:16 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /dice with parameters array (  'module' => 'dice',  'action' => 'index',)
+Dec 09 19:20:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:20:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:20:16 symfony [info] {diceActions} Call "diceActions->executeIndex()"
+Dec 09 19:20:16 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/indexSuccess.php"
+Dec 09 19:20:16 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:20:16 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:20:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:20:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:20:16 symfony [info] {sfWebDebugLogger} Configuration 12.10 ms (9)
+Dec 09 19:20:16 symfony [info] {sfWebDebugLogger} Factories 61.65 ms (1)
+Dec 09 19:20:16 symfony [info] {sfWebDebugLogger} Action "dice/index" 0.15 ms (1)
+Dec 09 19:20:16 symfony [info] {sfWebDebugLogger} View "Success" for "dice/index" 24.28 ms (1)
+Dec 09 19:20:16 symfony [info] {sfWebResponse} Send content (28373 o)
+Dec 09 19:44:03 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:44:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:44:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:44:03 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:44:03 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:44:03 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:44:03 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:44:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:44:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:44:03 symfony [info] {sfWebDebugLogger} Configuration 14.89 ms (9)
+Dec 09 19:44:03 symfony [info] {sfWebDebugLogger} Factories 68.09 ms (1)
+Dec 09 19:44:03 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:44:03 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.84 ms (1)
+Dec 09 19:44:03 symfony [info] {sfWebResponse} Send content (29730 o)
+Dec 09 19:44:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:44:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:44:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:44:31 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:44:31 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:44:31 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:44:31 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:44:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:44:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:44:31 symfony [info] {sfWebDebugLogger} Configuration 11.82 ms (9)
+Dec 09 19:44:31 symfony [info] {sfWebDebugLogger} Factories 64.04 ms (1)
+Dec 09 19:44:31 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:44:31 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.91 ms (1)
+Dec 09 19:44:31 symfony [info] {sfWebResponse} Send content (29760 o)
+Dec 09 19:45:08 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:45:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:45:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:45:09 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:45:09 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:45:09 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:09 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:45:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:45:09 symfony [info] {sfWebDebugLogger} Configuration 13.30 ms (9)
+Dec 09 19:45:09 symfony [info] {sfWebDebugLogger} Factories 65.46 ms (1)
+Dec 09 19:45:09 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:45:09 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 34.15 ms (1)
+Dec 09 19:45:09 symfony [info] {sfWebResponse} Send content (29859 o)
+Dec 09 19:45:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:45:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:45:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:45:28 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:45:28 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:45:28 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:28 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:45:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:45:28 symfony [info] {sfWebDebugLogger} Configuration 12.30 ms (9)
+Dec 09 19:45:28 symfony [info] {sfWebDebugLogger} Factories 64.26 ms (1)
+Dec 09 19:45:28 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:45:28 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 34.81 ms (1)
+Dec 09 19:45:28 symfony [info] {sfWebResponse} Send content (29859 o)
+Dec 09 19:45:36 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:45:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:45:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:45:36 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:45:36 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:45:36 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:36 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:45:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:45:36 symfony [info] {sfWebDebugLogger} Configuration 11.18 ms (9)
+Dec 09 19:45:36 symfony [info] {sfWebDebugLogger} Factories 61.06 ms (1)
+Dec 09 19:45:36 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:45:36 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.91 ms (1)
+Dec 09 19:45:36 symfony [info] {sfWebResponse} Send content (29858 o)
+Dec 09 19:45:37 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:45:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:45:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:45:37 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:45:37 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:45:37 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:37 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:45:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:45:37 symfony [info] {sfWebDebugLogger} Configuration 12.51 ms (9)
+Dec 09 19:45:37 symfony [info] {sfWebDebugLogger} Factories 61.91 ms (1)
+Dec 09 19:45:37 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:45:37 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.91 ms (1)
+Dec 09 19:45:37 symfony [info] {sfWebResponse} Send content (29858 o)
+Dec 09 19:45:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:45:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:45:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:45:38 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:45:38 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:45:38 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:38 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:45:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:45:38 symfony [info] {sfWebDebugLogger} Configuration 9.97 ms (9)
+Dec 09 19:45:38 symfony [info] {sfWebDebugLogger} Factories 62.38 ms (1)
+Dec 09 19:45:38 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:45:38 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.41 ms (1)
+Dec 09 19:45:38 symfony [info] {sfWebResponse} Send content (29858 o)
+Dec 09 19:45:39 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:45:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:45:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:45:39 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:45:39 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:45:39 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:39 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:45:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:45:39 symfony [info] {sfWebDebugLogger} Configuration 12.23 ms (9)
+Dec 09 19:45:39 symfony [info] {sfWebDebugLogger} Factories 69.59 ms (1)
+Dec 09 19:45:39 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:45:39 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.68 ms (1)
+Dec 09 19:45:39 symfony [info] {sfWebResponse} Send content (29859 o)
+Dec 09 19:45:40 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:45:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:45:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:45:40 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:45:40 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:45:40 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:40 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:45:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:45:40 symfony [info] {sfWebDebugLogger} Configuration 12.35 ms (9)
+Dec 09 19:45:40 symfony [info] {sfWebDebugLogger} Factories 61.14 ms (1)
+Dec 09 19:45:40 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.36 ms (1)
+Dec 09 19:45:40 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.62 ms (1)
+Dec 09 19:45:40 symfony [info] {sfWebResponse} Send content (29857 o)
+Dec 09 19:45:41 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:45:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:45:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:45:41 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:45:41 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:45:41 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:41 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:45:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:45:41 symfony [info] {sfWebDebugLogger} Configuration 12.28 ms (9)
+Dec 09 19:45:41 symfony [info] {sfWebDebugLogger} Factories 62.80 ms (1)
+Dec 09 19:45:41 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:45:41 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.45 ms (1)
+Dec 09 19:45:41 symfony [info] {sfWebResponse} Send content (29860 o)
+Dec 09 19:45:42 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:45:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:45:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:45:42 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:45:42 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:45:42 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:42 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:45:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:45:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:45:42 symfony [info] {sfWebDebugLogger} Configuration 9.49 ms (9)
+Dec 09 19:45:42 symfony [info] {sfWebDebugLogger} Factories 60.80 ms (1)
+Dec 09 19:45:42 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.34 ms (1)
+Dec 09 19:45:42 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.95 ms (1)
+Dec 09 19:45:42 symfony [info] {sfWebResponse} Send content (29858 o)
+Dec 09 19:46:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:46:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:46:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:46:07 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:46:07 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:46:07 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:07 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:46:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:46:07 symfony [info] {sfWebDebugLogger} Configuration 12.59 ms (9)
+Dec 09 19:46:07 symfony [info] {sfWebDebugLogger} Factories 62.35 ms (1)
+Dec 09 19:46:07 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.39 ms (1)
+Dec 09 19:46:07 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 34.13 ms (1)
+Dec 09 19:46:07 symfony [info] {sfWebResponse} Send content (29882 o)
+Dec 09 19:46:08 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:46:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:46:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:46:08 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:46:08 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:46:08 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:08 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:46:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:46:08 symfony [info] {sfWebDebugLogger} Configuration 13.11 ms (9)
+Dec 09 19:46:08 symfony [info] {sfWebDebugLogger} Factories 61.80 ms (1)
+Dec 09 19:46:08 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.32 ms (1)
+Dec 09 19:46:08 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.10 ms (1)
+Dec 09 19:46:08 symfony [info] {sfWebResponse} Send content (29883 o)
+Dec 09 19:46:09 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:46:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:46:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:46:09 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:46:09 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:46:10 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:10 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:46:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:46:10 symfony [info] {sfWebDebugLogger} Configuration 10.84 ms (9)
+Dec 09 19:46:10 symfony [info] {sfWebDebugLogger} Factories 69.11 ms (1)
+Dec 09 19:46:10 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:46:10 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 30.09 ms (1)
+Dec 09 19:46:10 symfony [info] {sfWebResponse} Send content (29883 o)
+Dec 09 19:46:10 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:46:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:46:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:46:10 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:46:10 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:46:10 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:10 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:46:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:46:10 symfony [info] {sfWebDebugLogger} Configuration 12.39 ms (9)
+Dec 09 19:46:10 symfony [info] {sfWebDebugLogger} Factories 62.20 ms (1)
+Dec 09 19:46:10 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:46:10 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.48 ms (1)
+Dec 09 19:46:10 symfony [info] {sfWebResponse} Send content (29883 o)
+Dec 09 19:46:11 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:46:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:46:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:46:11 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:46:11 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:46:11 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:11 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:46:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:46:11 symfony [info] {sfWebDebugLogger} Configuration 12.38 ms (9)
+Dec 09 19:46:11 symfony [info] {sfWebDebugLogger} Factories 61.86 ms (1)
+Dec 09 19:46:11 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:46:11 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.34 ms (1)
+Dec 09 19:46:11 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 19:46:16 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:46:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:46:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:46:16 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:46:16 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:46:16 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:16 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:46:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:46:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:46:16 symfony [info] {sfWebDebugLogger} Configuration 11.85 ms (9)
+Dec 09 19:46:16 symfony [info] {sfWebDebugLogger} Factories 60.30 ms (1)
+Dec 09 19:46:16 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:46:16 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.40 ms (1)
+Dec 09 19:46:16 symfony [info] {sfWebResponse} Send content (29883 o)
+Dec 09 19:52:38 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /dice with parameters array (  'module' => 'dice',  'action' => 'index',)
+Dec 09 19:52:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:52:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:52:38 symfony [info] {diceActions} Call "diceActions->executeIndex()"
+Dec 09 19:52:38 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/indexSuccess.php"
+Dec 09 19:52:39 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:52:39 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:52:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:52:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:52:39 symfony [info] {sfWebDebugLogger} Configuration 12.79 ms (9)
+Dec 09 19:52:39 symfony [info] {sfWebDebugLogger} Factories 63.68 ms (1)
+Dec 09 19:52:39 symfony [info] {sfWebDebugLogger} Action "dice/index" 0.15 ms (1)
+Dec 09 19:52:39 symfony [info] {sfWebDebugLogger} View "Success" for "dice/index" 24.53 ms (1)
+Dec 09 19:52:39 symfony [info] {sfWebResponse} Send content (28372 o)
+Dec 09 19:52:57 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /dice with parameters array (  'module' => 'dice',  'action' => 'index',)
+Dec 09 19:52:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:52:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:52:57 symfony [info] {diceActions} Call "diceActions->executeIndex()"
+Dec 09 19:52:57 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/indexSuccess.php"
+Dec 09 19:52:57 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:52:57 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:52:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:52:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:52:57 symfony [info] {sfWebDebugLogger} Configuration 12.02 ms (9)
+Dec 09 19:52:57 symfony [info] {sfWebDebugLogger} Factories 65.87 ms (1)
+Dec 09 19:52:57 symfony [info] {sfWebDebugLogger} Action "dice/index" 0.23 ms (1)
+Dec 09 19:52:57 symfony [info] {sfWebDebugLogger} View "Success" for "dice/index" 23.31 ms (1)
+Dec 09 19:52:57 symfony [info] {sfWebResponse} Send content (28404 o)
+Dec 09 19:53:04 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:04 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:04 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:04 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:04 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:04 symfony [info] {sfWebDebugLogger} Configuration 11.00 ms (9)
+Dec 09 19:53:04 symfony [info] {sfWebDebugLogger} Factories 63.41 ms (1)
+Dec 09 19:53:04 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:53:04 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.19 ms (1)
+Dec 09 19:53:04 symfony [info] {sfWebResponse} Send content (29851 o)
+Dec 09 19:53:17 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:17 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:17 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:17 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:17 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:17 symfony [info] {sfWebDebugLogger} Configuration 10.19 ms (9)
+Dec 09 19:53:17 symfony [info] {sfWebDebugLogger} Factories 61.65 ms (1)
+Dec 09 19:53:17 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:17 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 32.52 ms (1)
+Dec 09 19:53:17 symfony [info] {sfWebResponse} Send content (29885 o)
+Dec 09 19:53:19 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:19 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:19 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:19 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:19 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:19 symfony [info] {sfWebDebugLogger} Configuration 9.11 ms (9)
+Dec 09 19:53:19 symfony [info] {sfWebDebugLogger} Factories 61.69 ms (1)
+Dec 09 19:53:19 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.35 ms (1)
+Dec 09 19:53:19 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.18 ms (1)
+Dec 09 19:53:19 symfony [info] {sfWebResponse} Send content (29881 o)
+Dec 09 19:53:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:20 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:20 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:20 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:20 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:20 symfony [info] {sfWebDebugLogger} Configuration 9.38 ms (9)
+Dec 09 19:53:20 symfony [info] {sfWebDebugLogger} Factories 65.10 ms (1)
+Dec 09 19:53:20 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:53:20 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.15 ms (1)
+Dec 09 19:53:20 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 19:53:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:20 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:20 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:20 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:20 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:20 symfony [info] {sfWebDebugLogger} Configuration 12.32 ms (9)
+Dec 09 19:53:20 symfony [info] {sfWebDebugLogger} Factories 62.01 ms (1)
+Dec 09 19:53:20 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:53:20 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 25.25 ms (1)
+Dec 09 19:53:20 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 19:53:21 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:21 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:21 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:21 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:21 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:21 symfony [info] {sfWebDebugLogger} Configuration 11.35 ms (9)
+Dec 09 19:53:21 symfony [info] {sfWebDebugLogger} Factories 61.69 ms (1)
+Dec 09 19:53:21 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:53:21 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.82 ms (1)
+Dec 09 19:53:21 symfony [info] {sfWebResponse} Send content (29885 o)
+Dec 09 19:53:22 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:22 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:22 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:22 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:22 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:22 symfony [info] {sfWebDebugLogger} Configuration 12.73 ms (9)
+Dec 09 19:53:22 symfony [info] {sfWebDebugLogger} Factories 61.06 ms (1)
+Dec 09 19:53:22 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:53:22 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.32 ms (1)
+Dec 09 19:53:22 symfony [info] {sfWebResponse} Send content (29882 o)
+Dec 09 19:53:22 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:22 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:22 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:22 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:22 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:22 symfony [info] {sfWebDebugLogger} Configuration 14.15 ms (9)
+Dec 09 19:53:22 symfony [info] {sfWebDebugLogger} Factories 61.26 ms (1)
+Dec 09 19:53:22 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:53:22 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.71 ms (1)
+Dec 09 19:53:22 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 19:53:23 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:23 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:23 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:23 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:23 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:23 symfony [info] {sfWebDebugLogger} Configuration 13.54 ms (9)
+Dec 09 19:53:23 symfony [info] {sfWebDebugLogger} Factories 61.12 ms (1)
+Dec 09 19:53:23 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:23 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.37 ms (1)
+Dec 09 19:53:23 symfony [info] {sfWebResponse} Send content (29885 o)
+Dec 09 19:53:24 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:24 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:24 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:24 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:24 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:24 symfony [info] {sfWebDebugLogger} Configuration 11.66 ms (9)
+Dec 09 19:53:24 symfony [info] {sfWebDebugLogger} Factories 62.82 ms (1)
+Dec 09 19:53:24 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.35 ms (1)
+Dec 09 19:53:24 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.82 ms (1)
+Dec 09 19:53:24 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 19:53:24 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:24 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:24 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:24 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:24 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:24 symfony [info] {sfWebDebugLogger} Configuration 10.68 ms (9)
+Dec 09 19:53:24 symfony [info] {sfWebDebugLogger} Factories 62.34 ms (1)
+Dec 09 19:53:24 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.35 ms (1)
+Dec 09 19:53:24 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.84 ms (1)
+Dec 09 19:53:24 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 19:53:25 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:25 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:25 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:25 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:25 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:25 symfony [info] {sfWebDebugLogger} Configuration 11.36 ms (9)
+Dec 09 19:53:25 symfony [info] {sfWebDebugLogger} Factories 63.55 ms (1)
+Dec 09 19:53:25 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:25 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.44 ms (1)
+Dec 09 19:53:25 symfony [info] {sfWebResponse} Send content (29883 o)
+Dec 09 19:53:26 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:26 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:26 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:26 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:26 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:26 symfony [info] {sfWebDebugLogger} Configuration 11.02 ms (9)
+Dec 09 19:53:26 symfony [info] {sfWebDebugLogger} Factories 61.64 ms (1)
+Dec 09 19:53:26 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.39 ms (1)
+Dec 09 19:53:26 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.98 ms (1)
+Dec 09 19:53:26 symfony [info] {sfWebResponse} Send content (29883 o)
+Dec 09 19:53:27 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:27 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:27 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:27 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:27 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:27 symfony [info] {sfWebDebugLogger} Configuration 11.35 ms (9)
+Dec 09 19:53:27 symfony [info] {sfWebDebugLogger} Factories 60.76 ms (1)
+Dec 09 19:53:27 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:27 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.55 ms (1)
+Dec 09 19:53:27 symfony [info] {sfWebResponse} Send content (29882 o)
+Dec 09 19:53:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:28 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:28 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:28 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:28 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:28 symfony [info] {sfWebDebugLogger} Configuration 12.24 ms (9)
+Dec 09 19:53:28 symfony [info] {sfWebDebugLogger} Factories 63.88 ms (1)
+Dec 09 19:53:28 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:28 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.30 ms (1)
+Dec 09 19:53:28 symfony [info] {sfWebResponse} Send content (29883 o)
+Dec 09 19:53:29 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:30 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:30 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:30 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:30 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:30 symfony [info] {sfWebDebugLogger} Configuration 10.98 ms (9)
+Dec 09 19:53:30 symfony [info] {sfWebDebugLogger} Factories 59.68 ms (1)
+Dec 09 19:53:30 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.32 ms (1)
+Dec 09 19:53:30 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.61 ms (1)
+Dec 09 19:53:30 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 19:53:30 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:30 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:30 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:30 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:30 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:30 symfony [info] {sfWebDebugLogger} Configuration 12.56 ms (9)
+Dec 09 19:53:30 symfony [info] {sfWebDebugLogger} Factories 60.22 ms (1)
+Dec 09 19:53:30 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:30 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.35 ms (1)
+Dec 09 19:53:30 symfony [info] {sfWebResponse} Send content (29883 o)
+Dec 09 19:53:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:31 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:31 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:31 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:31 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:31 symfony [info] {sfWebDebugLogger} Configuration 12.04 ms (9)
+Dec 09 19:53:31 symfony [info] {sfWebDebugLogger} Factories 64.11 ms (1)
+Dec 09 19:53:31 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:31 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.48 ms (1)
+Dec 09 19:53:31 symfony [info] {sfWebResponse} Send content (29882 o)
+Dec 09 19:53:35 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:35 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:35 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:35 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:35 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:35 symfony [info] {sfWebDebugLogger} Configuration 11.58 ms (9)
+Dec 09 19:53:35 symfony [info] {sfWebDebugLogger} Factories 61.65 ms (1)
+Dec 09 19:53:35 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.36 ms (1)
+Dec 09 19:53:35 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.35 ms (1)
+Dec 09 19:53:35 symfony [info] {sfWebResponse} Send content (29882 o)
+Dec 09 19:53:40 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:40 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:40 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:40 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:40 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:40 symfony [info] {sfWebDebugLogger} Configuration 11.12 ms (9)
+Dec 09 19:53:40 symfony [info] {sfWebDebugLogger} Factories 62.91 ms (1)
+Dec 09 19:53:40 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.32 ms (1)
+Dec 09 19:53:40 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.58 ms (1)
+Dec 09 19:53:40 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 19:53:40 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:40 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:40 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:40 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:40 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:40 symfony [info] {sfWebDebugLogger} Configuration 13.26 ms (9)
+Dec 09 19:53:40 symfony [info] {sfWebDebugLogger} Factories 65.14 ms (1)
+Dec 09 19:53:40 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:40 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.83 ms (1)
+Dec 09 19:53:41 symfony [info] {sfWebResponse} Send content (29885 o)
+Dec 09 19:53:41 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:41 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:41 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:41 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:41 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:41 symfony [info] {sfWebDebugLogger} Configuration 12.96 ms (9)
+Dec 09 19:53:41 symfony [info] {sfWebDebugLogger} Factories 71.76 ms (1)
+Dec 09 19:53:41 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 19:53:41 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 25.67 ms (1)
+Dec 09 19:53:41 symfony [info] {sfWebResponse} Send content (29885 o)
+Dec 09 19:53:41 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:41 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:41 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:41 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:41 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:41 symfony [info] {sfWebDebugLogger} Configuration 13.35 ms (9)
+Dec 09 19:53:41 symfony [info] {sfWebDebugLogger} Factories 61.23 ms (1)
+Dec 09 19:53:41 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:41 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 22.94 ms (1)
+Dec 09 19:53:41 symfony [info] {sfWebResponse} Send content (29883 o)
+Dec 09 19:53:42 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 19:53:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:53:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:53:42 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 19:53:42 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 19:53:42 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:42 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:53:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:53:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:53:42 symfony [info] {sfWebDebugLogger} Configuration 12.37 ms (9)
+Dec 09 19:53:42 symfony [info] {sfWebDebugLogger} Factories 64.60 ms (1)
+Dec 09 19:53:42 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 19:53:42 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.07 ms (1)
+Dec 09 19:53:42 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 19:55:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /dice with parameters array (  'module' => 'dice',  'action' => 'index',)
+Dec 09 19:55:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 19:55:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 19:55:49 symfony [info] {diceActions} Call "diceActions->executeIndex()"
+Dec 09 19:55:49 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/indexSuccess.php"
+Dec 09 19:55:49 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:55:49 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 19:55:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 19:55:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 19:55:49 symfony [info] {sfWebDebugLogger} Configuration 13.22 ms (9)
+Dec 09 19:55:49 symfony [info] {sfWebDebugLogger} Factories 102.78 ms (1)
+Dec 09 19:55:49 symfony [info] {sfWebDebugLogger} Action "dice/index" 0.15 ms (1)
+Dec 09 19:55:49 symfony [info] {sfWebDebugLogger} View "Success" for "dice/index" 23.60 ms (1)
+Dec 09 19:55:49 symfony [info] {sfWebResponse} Send content (28373 o)
+Dec 09 20:11:47 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /dice with parameters array (  'module' => 'dice',  'action' => 'index',)
+Dec 09 20:11:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 20:11:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 20:11:47 symfony [info] {diceActions} Call "diceActions->executeIndex()"
+Dec 09 20:11:47 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/indexSuccess.php"
+Dec 09 20:11:47 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:11:47 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:11:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 20:11:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 20:11:47 symfony [info] {sfWebDebugLogger} Configuration 15.10 ms (9)
+Dec 09 20:11:47 symfony [info] {sfWebDebugLogger} Factories 65.89 ms (1)
+Dec 09 20:11:47 symfony [info] {sfWebDebugLogger} Action "dice/index" 0.16 ms (1)
+Dec 09 20:11:47 symfony [info] {sfWebDebugLogger} View "Success" for "dice/index" 28.53 ms (1)
+Dec 09 20:11:47 symfony [info] {sfWebResponse} Send content (28283 o)
+Dec 09 20:22:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /dice with parameters array (  'module' => 'dice',  'action' => 'index',)
+Dec 09 20:22:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 20:22:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 20:22:37 symfony [info] {diceActions} Call "diceActions->executeIndex()"
+Dec 09 20:22:37 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/indexSuccess.php"
+Dec 09 20:22:37 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:37 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 20:22:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 20:22:37 symfony [info] {sfWebDebugLogger} Configuration 17.15 ms (9)
+Dec 09 20:22:37 symfony [info] {sfWebDebugLogger} Factories 64.49 ms (1)
+Dec 09 20:22:37 symfony [info] {sfWebDebugLogger} Action "dice/index" 0.31 ms (1)
+Dec 09 20:22:37 symfony [info] {sfWebDebugLogger} View "Success" for "dice/index" 24.22 ms (1)
+Dec 09 20:22:37 symfony [info] {sfWebResponse} Send content (28315 o)
+Dec 09 20:22:41 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 20:22:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 20:22:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 20:22:41 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 20:22:41 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 20:22:41 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:41 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 20:22:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 20:22:41 symfony [info] {sfWebDebugLogger} Configuration 12.52 ms (9)
+Dec 09 20:22:41 symfony [info] {sfWebDebugLogger} Factories 63.50 ms (1)
+Dec 09 20:22:41 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 20:22:41 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.50 ms (1)
+Dec 09 20:22:41 symfony [info] {sfWebResponse} Send content (29852 o)
+Dec 09 20:22:44 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 20:22:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 20:22:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 20:22:44 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 20:22:44 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 20:22:44 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:44 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 20:22:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 20:22:44 symfony [info] {sfWebDebugLogger} Configuration 12.46 ms (9)
+Dec 09 20:22:44 symfony [info] {sfWebDebugLogger} Factories 60.73 ms (1)
+Dec 09 20:22:44 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.32 ms (1)
+Dec 09 20:22:44 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.08 ms (1)
+Dec 09 20:22:44 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 20:22:45 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 20:22:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 20:22:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 20:22:45 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 20:22:45 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 20:22:45 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:45 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 20:22:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 20:22:45 symfony [info] {sfWebDebugLogger} Configuration 11.86 ms (9)
+Dec 09 20:22:45 symfony [info] {sfWebDebugLogger} Factories 63.57 ms (1)
+Dec 09 20:22:45 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.31 ms (1)
+Dec 09 20:22:45 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 24.96 ms (1)
+Dec 09 20:22:45 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 20:22:45 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /dice/Roll with parameters array (  'module' => 'dice',  'action' => 'Roll',)
+Dec 09 20:22:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 20:22:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 20:22:45 symfony [info] {diceActions} Call "diceActions->executeRoll()"
+Dec 09 20:22:45 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/RollSuccess.php"
+Dec 09 20:22:45 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:45 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 20:22:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 20:22:45 symfony [info] {sfWebDebugLogger} Configuration 12.37 ms (9)
+Dec 09 20:22:45 symfony [info] {sfWebDebugLogger} Factories 60.93 ms (1)
+Dec 09 20:22:45 symfony [info] {sfWebDebugLogger} Action "dice/Roll" 0.30 ms (1)
+Dec 09 20:22:45 symfony [info] {sfWebDebugLogger} View "Success" for "dice/Roll" 23.76 ms (1)
+Dec 09 20:22:45 symfony [info] {sfWebResponse} Send content (29884 o)
+Dec 09 20:22:46 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /dice with parameters array (  'module' => 'dice',  'action' => 'index',)
+Dec 09 20:22:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 09 20:22:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 09 20:22:46 symfony [info] {diceActions} Call "diceActions->executeIndex()"
+Dec 09 20:22:46 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\modules/dice/templates/indexSuccess.php"
+Dec 09 20:22:46 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:46 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\sfdice\apps\greed\templates/layout.php"
+Dec 09 20:22:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 09 20:22:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 09 20:22:46 symfony [info] {sfWebDebugLogger} Configuration 13.19 ms (9)
+Dec 09 20:22:46 symfony [info] {sfWebDebugLogger} Factories 70.94 ms (1)
+Dec 09 20:22:46 symfony [info] {sfWebDebugLogger} Action "dice/index" 0.20 ms (1)
+Dec 09 20:22:46 symfony [info] {sfWebDebugLogger} View "Success" for "dice/index" 25.86 ms (1)
+Dec 09 20:22:46 symfony [info] {sfWebResponse} Send content (28372 o)
